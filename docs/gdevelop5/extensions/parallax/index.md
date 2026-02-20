@@ -1,3 +1,4 @@
+![1000345939](https://github.com/user-attachments/assets/ea5db75d-0694-4b53-83df-8e6f17026d80)
 # Parallax for Tiled Sprite
 
 <img src="https://resources.gdevelop-app.com/assets/Icons/image-move.svg" class="extension-icon"></img>
